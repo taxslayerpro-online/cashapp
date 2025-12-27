@@ -11,7 +11,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'Cash App Taxes Guide'
-copyright = '2025, Independent Tax Filing Guide'
+copyright = '2026, Independent Tax Filing Guide'
 author = 'Independent Tax Filing Guide'
 
 # The full version, including alpha/beta/rc tags
