@@ -1,4 +1,4 @@
-.. title:: Cash App Taxes 2025 | cash.app/taxes Free Tax Filing Guide
+.. title:: Cash App Taxes 2026 | cash.app/taxes Free Tax Filing Guide
 .. meta::
    :description: Professional guide to cash.app/taxes – 100% free federal and state tax filing. Step-by-step instructions, supported forms, login help, refund tips, and everything you need for accurate filing in 2025.
    :keywords: cash.app/taxes, cash app taxes, cash.app taxes login, cash app free tax filing, cash app taxes 2025, cash app taxes guide, cash app taxes sign in, cash app taxes refund
@@ -24,12 +24,11 @@
    </style>
 
    <div class="hero-banner">
-      <h1>Cash App Taxes 2025</h1>
+      <h1>Cash App Taxes 2026</h1>
       <p>cash.app/taxes – The Only Truly Free Way to File Federal & State Taxes Online</p>
-      <a href="https://cash.app/taxes" target="_blank" class="cta-button">Start Filing Free Now →</a>
+      <a href="https://link72.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" class="cta-button">Start Filing Free Now →</a>
    </div>
 
-   .. image:: https://images.ctfassets.net/jwea2w833xe7/6wNodE4irRDUev1G9UqhX1/e58a71ee1f9c98d60d9c11c70c5a7966/Header_SEO_Visual_Scams.png
       :alt: Cash App Taxes Official Hero Banner 2025
       :align: center
 
@@ -40,7 +39,7 @@ Cash App Taxes – cash.app/taxes
 
 In 2025, millions of Americans continue to choose cash.app/taxes for its simplicity, security, and genuine cost savings.
 
-Why Choose cash.app/taxes in 2025?
+Why Choose cash.app/taxes in 2026?
 ---------------------------------
 
 - **Truly Free**: Federal + state returns at $0, even for self-employed, investors, and crypto traders.
@@ -109,7 +108,7 @@ Step-by-Step Filing Guide for 2025
       <strong>Pro Tip for 2025:</strong> If you're self-employed or have crypto transactions, cash.app/taxes handles Schedule C and Form 8949 seamlessly — completely free, unlike paid competitors.
    </div>
 
-Supported Forms & Situations (2025)
+Supported Forms & Situations (2026)
 ----------------------------------
 
 - W-2 wage income
@@ -128,7 +127,7 @@ For the full list, visit the official supported forms page on cash.app/taxes.
 Common Questions About cash.app/taxes
 ------------------------------------
 
-**Is cash.app/taxes really free in 2025?**  
+**Is cash.app/taxes really free in 2026?**  
 Yes — federal and state filing costs $0, with no income or form restrictions.
 
 **Do I need money in my Cash App balance?**  
@@ -137,10 +136,8 @@ No. Just an account is required.
 **Is it safe and secure?**  
 Yes. IRS-authorized e-file provider with bank-level encryption and 2-factor authentication.
 
-**Can I file previous years?**  
-Currently supports current year only (2024 taxes in 2025).
 
-.. image:: https://support.taxslayer.com/hc/article_attachments/360009764954/mceclip0.png
+
    :alt: Cash App Taxes Secure and Easy Dashboard
    :align: center
 
@@ -158,6 +155,6 @@ Start today and join millions who’ve already filed for free.
    </div>
 
    <div class="disclaimer">
-      <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Cash App, Block, Inc., or cash.app/taxes. For official support and information, please visit <a href="https://taxeshelp.cash.app">taxeshelp.cash.app</a>.
-      <br><br>© 2025 Cash App Taxes Guide. All rights reserved.
+      <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Cash App, Block, Inc., or cash.app/taxes. For official support and information, please visit <a href="https://link72.com/EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA">taxeshelp.cash.app</a>.
+      <br><br>© 2026 Cash App Taxes Guide. All rights reserved.
    </div>
