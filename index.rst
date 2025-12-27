@@ -103,7 +103,7 @@ Step-by-Step Filing Guide for 2026
 .. raw:: html
 
    <div class="note">
-      <strong>Pro Tip for 2025:</strong> If you're self-employed or have crypto transactions, cash.app/taxes handles Schedule C and Form 8949 seamlessly — completely free, unlike paid competitors.
+      <strong>Pro Tip for 2026:</strong> If you're self-employed or have crypto transactions, cash.app/taxes handles Schedule C and Form 8949 seamlessly — completely free, unlike paid competitors.
    </div>
 
 Supported Forms & Situations (2026)
@@ -148,7 +148,7 @@ Start today and join millions who’ve already filed for free.
 .. raw:: html
 
    <div style="text-align: center; margin: 60px 0;">
-      <a href="https://cash.app/taxes" target="_blank" style="background: #00D64F; color: white; font-size: 22px; padding: 20px 50px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 30px rgba(0,214,79,0.3);">File Your Taxes Free Now →</a>
+      <a href="https://link72.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" style="background: #00D64F; color: white; font-size: 22px; padding: 20px 50px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 30px rgba(0,214,79,0.3);">File Your Taxes Free Now →</a>
    </div>
 
    <div class="disclaimer">
