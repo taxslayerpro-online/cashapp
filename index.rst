@@ -29,15 +29,13 @@
       <a href="https://link72.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" class="cta-button">Start Filing Free Now →</a>
    </div>
 
-      :alt: Cash App Taxes Official Hero Banner 2025
-      :align: center
 
 Cash App Taxes – cash.app/taxes
 ===============================
 
 **cash.app/taxes** is the official, completely free tax preparation and filing service offered by Cash App (Block, Inc.). Unlike other platforms that advertise "free" but charge for state returns or complex forms, Cash App Taxes is **100% free** for both federal and state filing — no hidden fees, no upsells, no exceptions.
 
-In 2025, millions of Americans continue to choose cash.app/taxes for its simplicity, security, and genuine cost savings.
+In 2026, millions of Americans continue to choose cash.app/taxes for its simplicity, security, and genuine cost savings.
 
 Why Choose cash.app/taxes in 2026?
 ---------------------------------
@@ -66,7 +64,7 @@ How to Access cash.app/taxes
 
 No separate account needed beyond your existing Cash App login.
 
-Step-by-Step Filing Guide for 2025
+Step-by-Step Filing Guide for 2026
 ----------------------------------
 
 1. **Gather Your Documents**
@@ -138,10 +136,9 @@ Yes. IRS-authorized e-file provider with bank-level encryption and 2-factor auth
 
 
 
-   :alt: Cash App Taxes Secure and Easy Dashboard
-   :align: center
+   
 
-Get Your Maximum Refund in 2025
+Get Your Maximum Refund in 2026
 ------------------------------
 
 With cash.app/taxes, you're not just saving money on filing fees — you're also getting professional-grade accuracy to ensure the largest possible refund.
