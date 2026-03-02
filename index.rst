@@ -26,7 +26,7 @@
    <div class="hero-banner">
       <h1>Cash App Taxes 2026</h1>
       <p>cash.app/taxes – The Only Truly Free Way to File Federal & State Taxes Online</p>
-      <a href="https://link72.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" class="cta-button">Start Filing Free Now →</a>
+      <a href="https://url90.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" class="cta-button">Start Filing Free Now →</a>
    </div>
 
 
@@ -148,7 +148,7 @@ Start today and join millions who’ve already filed for free.
 .. raw:: html
 
    <div style="text-align: center; margin: 60px 0;">
-      <a href="https://link72.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" style="background: #00D64F; color: white; font-size: 22px; padding: 20px 50px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 30px rgba(0,214,79,0.3);">File Your Taxes Free Now →</a>
+      <a href="https://url90.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA" target="_blank" style="background: #00D64F; color: white; font-size: 22px; padding: 20px 50px; border-radius: 50px; text-decoration: none; font-weight: bold; box-shadow: 0 10px 30px rgba(0,214,79,0.3);">File Your Taxes Free Now →</a>
    </div>
 
    <div class="disclaimer">
