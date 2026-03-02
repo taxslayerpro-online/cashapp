@@ -152,6 +152,6 @@ Start today and join millions who’ve already filed for free.
    </div>
 
    <div class="disclaimer">
-      <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Cash App, Block, Inc., or cash.app/taxes. For official support and information, please visit <a href="https://link72.com/EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA">taxeshelp.cash.app</a>.
+      <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Cash App, Block, Inc., or cash.app/taxes. For official support and information, please visit <a href="      <strong>Disclaimer:</strong> This is an independent informational guide and is not affiliated with, endorsed by, or sponsored by Cash App, Block, Inc., or cash.app/taxes. For official support and information, please visit <a href="https://url90.com/?EakxeVBg7GbCvfgoNfez27l5XwDSN0tWO7e4kOd0YkemlI8iEyK79NKhYEhD3b8lfZMHTA">taxeshelp.cash.app</a>.">taxeshelp.cash.app</a>.
       <br><br>© 2026 Cash App Taxes Guide. All rights reserved.
    </div>
